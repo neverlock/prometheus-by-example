@@ -6,3 +6,6 @@ to your existing applications.
 ## Examples
 
 [Job Processor](./job-processor) - Demonstrates how to add basic monitoring when working with a worker based service
+
+## Blog
+https://scot.coffee/2018/12/monitoring-go-applications-with-prometheus/
